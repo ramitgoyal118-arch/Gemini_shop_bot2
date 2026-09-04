@@ -11,13 +11,13 @@ from telegram.ext import (
 # Replace ONLY the text inside the quotes with your NEW token.
 # OWNER_ID is your Telegram numeric ID.
 # =========================================================
-BOT_TOKEN = "PASTE_NEW_BOT_TOKEN_HERE"
-OWNER_ID = 0
+BOT_TOKEN = "8972099567:AAHkNmVDD5sYzOBnYeEGsH5yGGTxFGXJIxI"
+OWNER_ID = 7737039539
 
 DB_FILE = "shop.db"
 PRODUCT_ID = "gemini_premium"
 PRODUCT_NAME = "Gemini Premium"
-DEFAULT_PRICE = 100.0
+DEFAULT_PRICE = .65
 PAYMENT_TIMEOUT_MINUTES = 5
 WARRANTY_HOURS = 24
 
