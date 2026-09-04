@@ -6,8 +6,8 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 # =========================
 # HARD-CODE YOUR CREDENTIALS
 # =========================
-BOT_TOKEN = "PASTE_NEW_BOT_TOKEN_HERE"
-OWNER_ID = 0
+BOT_TOKEN = 8972099567:AAGwhTKvAuPF5XcyOfE23Fgu0NWFQYRTEJc
+OWNER_ID = 7737039539
 
 DB_FILE = "shop.db"
 PRODUCT_ID = "gemini_premium"
