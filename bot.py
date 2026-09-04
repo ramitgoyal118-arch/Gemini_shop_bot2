@@ -11,7 +11,7 @@ from telegram.ext import (
 # Replace ONLY the text inside the quotes with your NEW token.
 # OWNER_ID is your Telegram numeric ID.
 # =========================================================
-BOT_TOKEN = "8972099567:"8972099567:AAHkNmVDD5sYzOBnYeEGsH5yGGTxFGXJIxI"
+BOT_TOKEN = "8972099567:AAHkNmVDD5sYzOBnYeEGsH5yGGTxFGXJIxI"
 OWNER_ID = 7737039539
 
 DB_FILE = "shop.db"
