@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 # =========================
 # HARD-CODE YOUR CREDENTIALS
 # =========================
-BOT_TOKEN = 8972099567:AAGwhTKvAuPF5XcyOfE23Fgu0NWFQYRTEJc
+BOT_TOKEN = "8972099567:AAGwhTKvAuPF5XcyOfE23Fgu0NWFQYRTEJc"
 OWNER_ID = 7737039539
 
 DB_FILE = "shop.db"
